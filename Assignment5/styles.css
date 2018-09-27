@@ -1,0 +1,12 @@
+.bg-green {
+    background-color: #b1dfbb;
+}
+
+.bg-yellow{
+    background-color: #ffc107;
+}
+
+.down-20 {
+    position: relative;
+    bottom: -20px;
+}
