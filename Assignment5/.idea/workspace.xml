@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a4c8a3-8f72-416f-8050-a52ec9ca8ee0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Homework5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detailPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/harness1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5_lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5_lab/todo/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/todo/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,16 +58,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/../Assignment5/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="20" selection-end-column="10" />
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="20" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products.html">
+        <entry file="file://$PROJECT_DIR$/../Assignment5/products.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
@@ -86,16 +76,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/detailPage.html">
+        <entry file="file://$PROJECT_DIR$/../Assignment5/detailPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap.css">
+        <entry file="file://$PROJECT_DIR$/../Assignment5/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
               <caret line="6080" column="9" selection-start-line="6080" selection-start-column="7" selection-end-line="6080" selection-end-column="9" />
@@ -113,7 +103,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles.css">
+        <entry file="file://$PROJECT_DIR$/../Assignment5/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -159,10 +149,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="192" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
-    <option name="width" value="1194" />
+    <option name="width" value="720" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -178,7 +167,7 @@
           <expand>
             <path>
               <item name="Homework5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework5" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,18 +211,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537879457720</updated>
-      <workItem from="1537879459191" duration="15090000" />
+      <workItem from="1537879459191" duration="16491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15090000" />
+    <option name="totallyTimeSpent" value="16491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="192" y="23" width="1194" height="877" extended-state="0" />
+    <frame x="0" y="23" width="720" height="877" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20716113" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13733906" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -270,16 +260,16 @@
         <state relative-caret-position="-19067" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/paw.jpg">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/images/paw.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/paw.svg">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/images/paw.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/cat.svg">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/images/cat.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/dog.svg">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/images/dog.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../LyndaBootStrapCourse/Ex_Files_Bootstrap_4_EssT_Update_2/Exercise Files/03_04/index.html">
@@ -292,41 +282,41 @@
         <state relative-caret-position="-8" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/dialog.svg">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/images/dialog.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="6080" column="9" selection-start-line="6080" selection-start-column="7" selection-end-line="6080" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products.html">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/products.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="20" selection-end-column="10" />
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detailPage.html">
+    <entry file="file://$PROJECT_DIR$/../Assignment5/detailPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
