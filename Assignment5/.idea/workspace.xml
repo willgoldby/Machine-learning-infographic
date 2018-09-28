@@ -4,7 +4,7 @@
     <list default="true" id="79a4c8a3-8f72-416f-8050-a52ec9ca8ee0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week5_lab/todo/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/todo/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week5_lab/todo" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -220,7 +220,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="720" height="877" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13733906" />
