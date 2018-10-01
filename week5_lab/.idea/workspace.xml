@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b5ab2d-7a6c-4240-ac2a-95103111001c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/week5_part1_lab/todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week5_part1_lab/todo/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5_part1_lab/todo/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week5_part1_lab/todo/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5_part1_lab/todo/main.js" afterDir="false" />
     </list>
@@ -21,7 +19,7 @@
     <session id="-2040982010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -201,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537799779511</updated>
       <workItem from="1537799782166" duration="5214000" />
-      <workItem from="1538163254430" duration="1679000" />
+      <workItem from="1538163254430" duration="1880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6893000" />
+    <option name="totallyTimeSpent" value="7094000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,9 +227,9 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />

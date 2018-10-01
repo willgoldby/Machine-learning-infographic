@@ -1,0 +1,1 @@
+$(document).ready(console.log("Hello jquery and the console"));
