@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a4c8a3-8f72-416f-8050-a52ec9ca8ee0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/week6_lab.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -218,6 +225,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1025" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.09561753" />
