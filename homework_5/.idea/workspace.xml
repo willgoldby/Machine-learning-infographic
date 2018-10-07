@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a4c8a3-8f72-416f-8050-a52ec9ca8ee0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detailPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/detailPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,7 +56,7 @@
     <session id="-1445436092">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -136,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -254,12 +247,12 @@
       <updated>1537879457720</updated>
       <workItem from="1537879459191" duration="17112000" />
       <workItem from="1538685871994" duration="5097000" />
-      <workItem from="1538925992871" duration="12185000" />
+      <workItem from="1538925992871" duration="12491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34394000" />
+    <option name="totallyTimeSpent" value="34700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="270" y="30" width="1175" height="877" extended-state="0" />
@@ -358,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
