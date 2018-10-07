@@ -4,12 +4,6 @@
     <list default="true" id="e4fad248-a395-402a-9c14-3293e04ab87d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6_lab.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,6 +18,7 @@
     <session id="1797909947">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -81,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="742">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="340">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -175,19 +170,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538404965719</updated>
-      <workItem from="1538404967330" duration="3173000" />
+      <workItem from="1538404967330" duration="3581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3173000" />
+    <option name="totallyTimeSpent" value="3581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1182" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.122621566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12230836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -264,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>

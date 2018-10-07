@@ -10,3 +10,106 @@
     position: relative;
     bottom: -20px;
 }
+
+.product-names {
+    font-size: 22px;
+    background-color: lightseagreen;
+}
+
+.top-row-products, .bottom-row-products {
+    padding-top: 30px;
+}
+
+.cat-container, .dog-container {
+    padding-top: 80px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.harness-title {
+    padding-top: 30px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.star {
+    color: gold;
+}
+
+.price-font {
+    font-weight: 500;
+    font-size: 18px;
+
+}
+
+.price-value {
+    font-weight: 900;
+    font-size: 18px;
+    color: red;
+}
+
+.harness-colors, .product-detail-description {
+    padding-top: 30px;
+}
+
+
+.size-of-product {
+    font-weight: 400;
+}
+
+.product-size-font {
+    font-weight: 100;
+}
+
+.size-button {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+.color-button{
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+    font-size: 12px;
+}
+
+
+.selected-button {
+    background-color: orange;
+}
+
+.quantity-button {
+    position: absolute;
+    top: 30%;
+    background-color: white;
+    color: black;
+    border: 1px solid #e7e7e7;
+    vertical-align: middle;
+    display: block;
+    justify-content: center;
+
+}
+
+.add-to-cart-button {
+    position: absolute;
+    top: 70%;
+    background-color: darkorange;
+    color: white;
+    border: 1px solid #e7e7e7;
+    vertical-align: middle;
+    display: block;
+}
+
+.grey-box{
+    display: flex;
+    text-align: center;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    justify-content: center;
+}
