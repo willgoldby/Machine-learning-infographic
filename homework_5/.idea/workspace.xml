@@ -2,9 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a4c8a3-8f72-416f-8050-a52ec9ca8ee0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/detailPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/Screen Shot 2018-09-15 at 6.57.54 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/account.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/backPack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/cat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/cat_on_back_of_dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/couple with dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/dialog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/dog_and_cat_hiking.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/drinkingContainer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/gpsCollar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harness1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harnessBlue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harnessGreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harnessPurple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harnessPurple2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harnessRed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/harnessStraw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/hiking cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/leash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/live chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/paw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/paw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/question.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/reviewperson.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/search_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/images/waterBottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/shoppingCart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7_lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7_lab/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7_lab/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7_lab/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,17 +126,24 @@
     <session id="77548399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.file.types.open" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -138,10 +188,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1251">
+            <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="4" />
             </state>
           </provider>
@@ -190,7 +240,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="265" />
+    <option name="x" value="88" />
     <option name="y" value="23" />
     <option name="width" value="1175" />
     <option name="height" value="877" />
@@ -257,16 +307,18 @@
       <workItem from="1538685871994" duration="5097000" />
       <workItem from="1538925992871" duration="12491000" />
       <workItem from="1538943779978" duration="37000" />
-      <workItem from="1538943821297" duration="359000" />
+      <workItem from="1538943821297" duration="543000" />
+      <workItem from="1539010048460" duration="174000" />
+      <workItem from="1539528068782" duration="691000" />
+      <workItem from="1539532254389" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35096000" />
+    <option name="totallyTimeSpent" value="36270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="265" y="23" width="1175" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="88" y="23" width="1175" height="877" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2694974" />
@@ -324,6 +376,13 @@
     <entry file="file://$PROJECT_DIR$/images/dialog.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="105" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/products.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -352,16 +411,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="105" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1251">
+        <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
