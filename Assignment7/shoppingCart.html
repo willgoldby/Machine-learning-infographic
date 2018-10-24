@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Shopping Cart</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="bootstrap.css">
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,900" rel="stylesheet">
+    <script src="script.js"></script>
 </head>
 <body>
 
@@ -30,54 +32,88 @@
         <a class="nav-item nav-link mr-5" href="index.html"><img src="images/question.svg" width="30" height="30"></a>
         <a class="nav-item nav-link mr-5" href="index.html"><img src="images/dialog.svg" width="30" height="30"></a>
         <a class="nav-item nav-link mr-5" href="index.html"><img src="images/cart.svg" width="30" height="30"></a>
-        <a class="nav-item nav-link mr-5" href="index.html"><img src="images/account.svg" width="30" height="30"></a>
+        <a class="nav-item nav-link" href="shoppingCart.html"><img src="images/account.svg" width="30" height="30"></a>
+        <a class="nav-item nav-link mr-1" href="shoppingCart.html"><span id="itemsInCart"></span></a>
 
     </nav>
 
     <div class="row">
         <div class="col-8 shopping-font">Your Shopping Cart</div>
+        <div id="totalPrice"  class="col-3">
+            <p>Total price</p>
+            <p id="dollarPrice"></p>
+        </div>
+    </div>
+    <div id="allProducts" class="row shopping-cart-details"> <!-- product details -->
+
+        <div class="row"> <!-- products stacked -->
+
+            <div class="col-3">
+                <img src="images/harnessPurple2.png" height="200" width="200">
+            </div>
+            <div class="col-3">
+                 <div class="product-title">
+                     <p>Safe Kitty Harness</p>
+                 </div>
+
+                <div class="shopping-cart-size">
+                    <p class="shopping-cart-product-size-font">Size and color:</p>
+                    <p id="size" class="product-size-color"></p>
+                </div>
+
+            </div>
+
+            <div class="col-3">
+                <p class="product-price">$19.99</p>
+                <div class="col-1 align-self-center">
+                    <input type="number" placeholder="Qty" id="updateQty" min="0"><br><br><br>
+                    <button onclick="updateTheCart()" value="" id="updateCart">Update cart</button>
+                    <button id="deleteFromCart" onclick="deleteItem()">Delete Item</button>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- below is all practice -->
+        <div class="row"> <!-- products stacked -->
+
+            <div class="col-3">
+                <img src="" height="200" width="200">
+            </div>
+            <div class="col-3">
+                <div class="product-title">
+                    <p>Safe Kitty Harness</p>
+                </div>
+
+                <div class="shopping-cart-size">
+                    <p class="shopping-cart-product-size-font">Size and color:</p>
+                    <p id="sizeAndColor" class="product-size"></p>
+                </div>
+            </div>
+
+            <div class="col-3">
+                <p class="product-price">$19.99</p>
+                <div class="col-1 align-self-center">
+                    <input type="number" placeholder="Qty" id="updateQty" min="0"><br><br><br>
+                    <button onclick="updateTheCart()" value="" id="updateCart">Update cart</button>
+                    <button id="deleteFromCart" onclick="deleteItem()">Delete Item</button>
+                </div>
+            </div>
+
+        </div>
+        <!-- above is all practice -->
     </div>
 
-    <div class="row shopping-cart-details"> <!-- product details -->
-        <div class="col-3">
-            <img src="images/harnessPurple2.png" height="200" width="200">
-        </div>
-        <div class="col-3">
-             <div class="product-title">
-                 <p>Safe Kitty Harness</p>
-             </div>
-
-            <div>
-                <p class="shopping-cart-product-size-font">Size:</p>
-                <p class="product-size">Small</p>
-            </div>
-
-            <div>
-                <p class="product-color">Color:</p>
-                <p>Berry</p>
-            </div>
-        </div>
-
-        <div class="col-3">
-            <p class="product-price">$19.99</p>
-            <div>
-                <button>+</button>
-            </div>
-            <div>
-                <button>-</button>
-            </div>
-            <div>
-                <p>quantity in cart</p>
-                <p>1</p>
-
-            </div>
-        </div>
 
 
-    </div> <!-- end product details -->
 
 
-</div>
+<script type="text/javascript">
+    onLoadCart();
+</script>
+
+
+
 
 </body>
 </html>

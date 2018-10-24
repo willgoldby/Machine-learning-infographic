@@ -94,15 +94,15 @@ a {
 
 }
 
-.add-to-cart-button {
-    position: absolute;
-    top: 70%;
-    background-color: darkorange;
-    color: white;
-    border: 1px solid #e7e7e7;
-    vertical-align: middle;
-    display: block;
-}
+/*.add-to-cart-button {*/
+    /*position: absolute;*/
+    /*top: 70%;*/
+    /*background-color: darkorange;*/
+    /*color: white;*/
+    /*border: 1px solid #e7e7e7;*/
+    /*vertical-align: middle;*/
+    /*display: block;*/
+/*}*/
 
 .grey-box{
     display: flex;
@@ -146,4 +146,23 @@ a {
     font-size: 30px;
     padding-top: 0px;
     color: red;
+}
+
+.harness-size{
+    float: left;
+    padding-right: 40px;
+}
+
+.shopping-cart-color {
+    float: none;
+}
+
+.shopping-cart-size {
+    float: none;
+}
+
+#totalPrice {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4e555b;
 }
