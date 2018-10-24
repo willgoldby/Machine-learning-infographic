@@ -51,11 +51,7 @@ function onLoadCart() {
     console.log(cart)
     for (var key in cart) {
         var sizeAndColor = key;
-        if (parseInt(cart[key]) ==  ) {
-            var amount = cart[key]
-        } else {
-            continue;
-        }
+
 
         var amount = cart[key];
         if (cart[key].slice(0,5) == 'image') {
@@ -63,9 +59,13 @@ function onLoadCart() {
         } else {
             continue;
         }
-        console.log(location)
-    }
-
+        // console.log(location)
+        // if (parseInt(cart[key]) ==  ) {
+        //     var amount = cart[key]
+        // } else {
+        //     continue;
+        // }
+}
 
 
     console.log("size and color:" + sizeAndColor + "amount:" + amount + "location:" + location)
