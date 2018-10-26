@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:position="http://www.w3.org/1999/xhtml">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Mudday Paws Adventure Gear</title>
+    <title>Shopping Cart</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="bootstrap.css">
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,900" rel="stylesheet"></head>
-
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,900" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
 <body>
+
 
 <div class="container">
 
@@ -30,24 +33,33 @@
         <a class="nav-item nav-link mr-5" href="index.html"><img src="images/dialog.svg" width="30" height="30"></a>
         <a class="nav-item nav-link mr-5" href="index.html"><img src="images/cart.svg" width="30" height="30"></a>
         <a class="nav-item nav-link" href="shoppingCart.html"><img src="images/account.svg" width="30" height="30"></a>
-        <a class="nav-item nav-link mr-1" href="shoppingCart.html"><span id="itemsInCart">1</span></a>
+        <a class="nav-item nav-link mr-1" href="shoppingCart.html"><span id="itemsInCart"></span></a>
 
     </nav>
 
-    <!-- icons of cat and dog -->
-    <div class="row align-items-center">
-        <div class="cat-container col-6"><a href="products.html">
-            <p class="display-4 offset-1">Kitty Gear</p>
-            <img src="images/cat.svg" width="300" height="300"></a>
-        </div> <!-- col 6 -->
-
-        <div class="dog-container col-6"><a href="products.html">
-            <p class="display-4">Doggy Gear</p>
-            <img src="images/dog.svg" width="300" height="300"></a>
-        </div> <!-- col 6-->
-    </div> <!-- row -->
+    <div class="row" id="mainProductContainer">
+        <div class="col-8 shopping-font">Your Shopping Cart</div>
+        <div id="totalPrice"  class="col-3">
+            <p>Total price</p>
+            <p id="dollarPrice"></p>
+        </div>
+    </div>
 
 
-</div> <!-- container -->
+    <div id="allProducts" class="row shopping-cart-details"> <!-- product details -->
+
+
+
+
+
+
+<script type="text/javascript">
+    onLoadCart();
+
+</script>
+
+
+
+
 </body>
 </html>
