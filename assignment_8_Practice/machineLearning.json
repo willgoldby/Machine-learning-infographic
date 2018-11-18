@@ -1,0 +1,38 @@
+{
+  "name": "Machine Learning",
+  "children":[{
+    "name": "Supervised Learning",
+    "children":[{
+      "name": "Decision tree",
+      "children":[{
+        "name":"Credit scoring"
+      }],
+      "name": "Neural network",
+      "children": [{
+        "name": "Speech recognition"
+      }],
+      "name": "Regression",
+      "children":[{
+        "name": "Financial arbitrage"
+      }]
+    }],
+    "name": "Unsupervised Learning",
+    "children": [{
+      "name": "Cluster Analysis",
+      "children": [{
+        "name":"Labeling and behavior"
+      }],
+      "name": "Support vector machine",
+      "children": [{
+        "name": "Detecting intruders"
+      }]
+    }],
+    "name": "Reinforcement Learning",
+    "children":[{
+      "name":"Q-Learning",
+      "children":[{
+        "name": "Self-driving cars"
+      }]
+    }]
+  }]
+}
