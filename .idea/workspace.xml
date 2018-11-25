@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7738afab-82af-4ab7-89a3-25940ee75d25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/JS/jQuery.JS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/week5_lab/week5_part1_lab/todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week5_lab/week5_part1_lab/todo/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/week5_lab/week5_part1_lab/todo/list.html" afterDir="false" />
@@ -30,8 +31,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="95">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/JS/jQuery.JS">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20142">
+              <caret line="1" column="86841" selection-start-line="1" selection-start-column="86841" selection-end-line="1" selection-end-column="86841" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,17 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week4_lab/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
+            <state relative-caret-position="558">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week4_lab/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="93" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -74,6 +78,7 @@
         <option value="$PROJECT_DIR$/week4_lab/list.html" />
         <option value="$PROJECT_DIR$/week4_lab/test.html" />
         <option value="$PROJECT_DIR$/week4_lab/style.css" />
+        <option value="$PROJECT_DIR$/docs/JS/jQuery.JS" />
         <option value="$PROJECT_DIR$/docs/index.html" />
       </list>
     </option>
@@ -102,6 +107,12 @@
               <item name="PUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PUI" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PUI" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,12 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537381681251</updated>
       <workItem from="1537381683608" duration="2502000" />
-      <workItem from="1543189029023" duration="254000" />
+      <workItem from="1543189029023" duration="581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2756000" />
+    <option name="totallyTimeSpent" value="3083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="121" y="23" width="1109" height="877" extended-state="0" />
@@ -191,10 +202,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week4_lab/style.css">
+    <entry file="file://$PROJECT_DIR$/docs/JS/jQuery.JS">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="20142">
+          <caret line="1" column="86841" selection-start-line="1" selection-start-column="86841" selection-end-line="1" selection-end-column="86841" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -205,10 +219,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week4_lab/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
