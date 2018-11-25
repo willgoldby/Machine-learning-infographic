@@ -1,1 +1,1 @@
-# Data visualization for machine learning using D3.Js
+# Data visualization for machine learning using D3.JS
