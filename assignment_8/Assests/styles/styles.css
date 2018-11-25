@@ -36,3 +36,21 @@
     font-weight: 300;
 
 }
+
+.Heading {
+    font-family: 'Raleway', sans-serif;
+    font-size: 46px;
+    font-weight: 300;
+}
+
+#title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#source{
+    font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+    color: #6c757d;
+}

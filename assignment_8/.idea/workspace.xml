@@ -2,24 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f274517f-b7e3-486c-bf33-472e322d4d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../assignment_6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dndTree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flare.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/.idea/assignment_8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/machineLearning.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assignment_8_Practice/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week8/week9/inclass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/styles/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/clusterAnalysis.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/clusterAnalysis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/creditScoring.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/creditScoring.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/decisionTree.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/decisionTree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/financial.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/financial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/intruders.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/intruders.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/labeling.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/labeling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/ml.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/ml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/neuralNetwork.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/neuralNetwork.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/qLearning.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/qLearning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/regression.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/regression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/reinforce.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/reinforce.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/selfdrivingcar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/selfdrivingcar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/speech.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/speech.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/supervised.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/supervised.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/supportVectorMachine.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/supportVectorMachine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/unsupervised.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/unsupervised.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/JS/tree.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6_Lab/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,80 +38,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1629974034">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
-          <entry key="json" value="1" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="5" />
-          <entry key="js" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="5" />
-          <entry key="JavaScript" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assests/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/Assests/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-end-line="45" />
+            <state relative-caret-position="558">
+              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dndTree.js">
+        <entry file="file://$PROJECT_DIR$/Assests/styles/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
-            </state>
+            <state relative-caret-position="-360" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flare.json">
+        <entry file="file://$PROJECT_DIR$/Assests/JS/tree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="332">
+              <caret line="341" column="13" selection-start-line="341" selection-start-column="13" selection-end-line="341" selection-end-column="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../assignment_8_Practice/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -119,6 +87,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>diagonal</find>
+      <find>transition</find>
+      <find>description</find>
+      <find>within</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,23 +98,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data.js" />
         <option value="$PROJECT_DIR$/flare.json" />
         <option value="$PROJECT_DIR$/dndTree.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/tree.js" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Assests/index.html" />
+        <option value="$PROJECT_DIR$/Assests/JS/tree.js" />
+        <option value="$PROJECT_DIR$/Assests/styles/styles.css" />
+        <option value="$PROJECT_DIR$/Assests/about.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="418" />
+    <option name="x" value="15" />
     <option name="y" value="23" />
-    <option name="width" value="897" />
+    <option name="width" value="1192" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -158,6 +130,17 @@
             <path>
               <item name="assignment_8" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment_8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
+              <item name="Assests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment_8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
+              <item name="Assests" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,6 +157,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assests" />
+      <recent name="$PROJECT_DIR$/JS" />
+      <recent name="$PROJECT_DIR$/styles" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$" />
@@ -205,16 +193,22 @@
       <workItem from="1542383750702" duration="21000" />
       <workItem from="1542383935717" duration="1813000" />
       <workItem from="1542389283251" duration="1022000" />
+      <workItem from="1542643898094" duration="1874000" />
+      <workItem from="1542737053028" duration="397000" />
+      <workItem from="1542737496139" duration="3385000" />
+      <workItem from="1543169007159" duration="68000" />
+      <workItem from="1543178041029" duration="5197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5041000" />
+    <option name="totallyTimeSpent" value="15962000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="418" y="23" width="897" height="877" extended-state="0" />
+    <frame x="15" y="23" width="1192" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21347032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17250213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,33 +249,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dndTree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flare.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment_8_Practice/.idea/vcs.xml">
+    <entry file="file://$PROJECT_DIR$/dndTree.js" />
+    <entry file="file://$PROJECT_DIR$/flare.json" />
+    <entry file="file://$PROJECT_DIR$/../assignment_8_Practice/.idea/vcs.xml" />
+    <entry file="file://$PROJECT_DIR$/text.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assests/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assests/JS/tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="341" column="13" selection-start-line="341" selection-start-column="13" selection-end-line="341" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assests/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assests/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

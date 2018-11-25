@@ -1,0 +1,54 @@
+.outer {
+	width: 300px;
+	height: 300px;
+	text-align: center;
+}
+
+.inner {
+	width: 120px;
+	height: 120px;
+}
+
+.center {
+	margin: 0 auto;
+}
+
+.loner {
+	width: 100px;
+	height: 100px;
+}
+
+.mini {
+	width: 60px;
+	height: 60px;
+}
+
+.red {
+	background-color: #e25555;
+}
+
+.green {
+	background-color: #55e255;
+}
+
+.orange {
+	background-color: #ffccaa
+}
+
+.fixed {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.relative {
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+.absolute {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}

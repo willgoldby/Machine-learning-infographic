@@ -1,0 +1,19 @@
+.container {
+	background-color: #eee;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.center {
+	position: relative;
+	margin: 0 auto;
+}
+
+li {
+	list-style: none;
+	padding-bottom: 10px;
+}
+
+ul {
+	padding-left: 20px;
+}
