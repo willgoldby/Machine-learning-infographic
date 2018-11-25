@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f274517f-b7e3-486c-bf33-472e322d4d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/styles/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/clusterAnalysis.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/clusterAnalysis.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/creditScoring.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/creditScoring.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/decisionTree.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/decisionTree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/financial.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/financial.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/intruders.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/intruders.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/labeling.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/labeling.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/ml.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/ml.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/neuralNetwork.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/neuralNetwork.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/qLearning.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/qLearning.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/regression.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/regression.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/reinforce.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/reinforce.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/selfdrivingcar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/selfdrivingcar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/speech.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/speech.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/supervised.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/supervised.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/supportVectorMachine.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/supportVectorMachine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/unsupervised.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/icons/unsupervised.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/JS/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -131,17 +108,6 @@
               <item name="assignment_8" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="assignment_8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
-              <item name="Assests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment_8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
-              <item name="Assests" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -197,16 +163,15 @@
       <workItem from="1542737053028" duration="397000" />
       <workItem from="1542737496139" duration="3385000" />
       <workItem from="1543169007159" duration="68000" />
-      <workItem from="1543178041029" duration="5197000" />
+      <workItem from="1543178041029" duration="5467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15962000" />
+    <option name="totallyTimeSpent" value="16232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="23" width="1192" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17250213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
