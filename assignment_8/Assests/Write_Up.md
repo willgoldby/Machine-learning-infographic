@@ -15,7 +15,7 @@ To reproduce the interaction, click on all the nodes that appear as the tree dia
 # External tool used
 
 - D3.JS
--I choose to use D3.JS because it had the kind of functionality I wanted to implement that I arrived at in my high-fidelity mockup.  
+- I choose to use D3.JS because it had the kind of functionality I wanted to implement that I arrived at in my high-fidelity mockup.  
 - I used the collapsible tree functionality to represent the main elements involved in machine learning.   
 - The D3.JS library adds interactivity to my site.
 

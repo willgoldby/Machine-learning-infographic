@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f274517f-b7e3-486c-bf33-472e322d4d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assests/Write_Up.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assests/JS/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/JS/tree.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assests/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assests/Write_Up.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assests/Write_Up.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" beforeDir="false" afterPath="$PROJECT_DIR$/../week5_lab/week5_part1_lab/todo" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -68,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/Assests/Write_Up.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="990">
-                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <first_editor relative-caret-position="522">
+                <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -196,12 +192,12 @@
       <workItem from="1543169007159" duration="68000" />
       <workItem from="1543178041029" duration="5467000" />
       <workItem from="1543190555287" duration="77000" />
-      <workItem from="1543246575987" duration="1841000" />
+      <workItem from="1543246575987" duration="1917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18150000" />
+    <option name="totallyTimeSpent" value="18226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="123" y="23" width="1192" height="877" extended-state="0" />
@@ -290,8 +286,8 @@
     <entry file="file://$PROJECT_DIR$/Assests/Write_Up.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="990">
-            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <first_editor relative-caret-position="522">
+            <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
