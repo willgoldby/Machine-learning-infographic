@@ -1,5 +1,7 @@
-//JSON object for tree data
+// Idea from Brandon Flowers collapsible tree diagram on https://bl.ocks.org/headwinds
 
+
+//JSON object for tree data
 const treeData =  {
     "name": "Machine Learning",
     "description": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. There are three main ways machines learn: supervised learning, unsupervised learning, and reinforcement learning. ",
