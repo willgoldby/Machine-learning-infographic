@@ -1,6 +1,6 @@
 # Overview
 
-This is the repository for a class I took at Carnegie Mellon University titled Programming Usable Interfaces. The class provided a robust and in-depth introduction to user interfaces and user experiences. The lab section taught HTML, CSS, and Javascript. 
+This is the repository for a class I took at Carnegie Mellon University titled **Programming Usable Interfaces**. The class provided a robust and in-depth introduction to user interfaces and user experiences. The lab section taught HTML, CSS, and Javascript. 
 
 # Website overview
 
