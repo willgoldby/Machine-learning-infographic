@@ -2,10 +2,38 @@
 
 This is the repository for a class I took at Carnegie Mellon University titled Programming Usable Interfaces. The class provided a robust and in-depth introduction to user interfaces and user experiences. The lab section taught HTML, CSS, and Javascript. 
 
-## Final project
+# Website overview
 
-My final project was an interactive introduction to machine learning. The guide canvasses machine learning at a high-level, providing a definition and example for the main machine learning training models and algorithms. 
+URL: https://willgoldby.github.io/Programming-usable-interfaces/
 
-## Website URL
+My website presents a brief overview of machine learning through a visual representation using a hierarchical tree  diagram. By clicking on the nodes of the tree, information about the machine learning concept is displayed below the diagram. 
 
-https://willgoldby.github.io/Programming-usable-interfaces/
+The target audience are users who have very little understanding of what machine learning is and the elements that compose it. The website engages users by having them click on the tree nodes in order to learn more about the concept the node represents. As the tree expands, users get a holistic understanding of machine learning.  
+
+
+# User interaction 
+
+- Users click on nodes to expand them and learn the ideas associated with that concept. 
+
+To reproduce the interaction, click on all the nodes that appear as the tree diagram expands. The final nodes, which are icons related to the concept do not expand. That is the end of the tree for that section.
+
+
+# External tool used
+
+- D3.JS
+- I chose to use D3.JS because it had the kind of functionality I wanted to implement from my high-fidelity mockup.  
+- I used the collapsible tree functionality to represent the main elements involved in machine learning.   
+- The D3.JS library adds interactivity to my site.
+
+# Iterations
+
+I iterated from my previous model by showing my high-fidelity mock up to potential users and getting their feedback. They commented that the text that displays when a node is clicked seems out of place and recommended placing it under the tree as opposed to the right of it. 
+
+Those users also mentioned that the navigation bar should have the icons on the left and not the right. I incorporated that feedback into my final site design too.
+
+# Challenges faced
+
+Never using the D3.JS library before, I watched a lot of YouTube videos and a Lynda course on how D3 works and how to implement the svg diagrams I wanted. 
+
+I spent a lot of time on Stack Overflow debugging issues and finding solutions to my problems. 
+
