@@ -8,4 +8,4 @@ My final project was an interactive introduction to machine learning. The guide 
 
 ## Website URL
 
-https://willgoldby.github.io/PUI/
+https://willgoldby.github.io/Programming-usable-interfaces/
